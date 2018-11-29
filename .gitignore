@@ -1,0 +1,43 @@
+#ignore
+#### ignore file for Unreal C++ Projects 181127 ###
+
+#########################
+# Unreal Generated Files 
+#########################
+
+Binaries/*
+
+#config .ini files are good
+#Config/*
+
+#not sure there is such a thing...
+#Config/Binaries/
+
+#temp: For now, whole directory
+Content/*
+#Content/StarterContent/
+
+Build/*
+Binaries/*
+Intermediate/*
+Saved/*
+
+#Let's save our source
+#Source/*
+
+#########################
+# VS GEnerated Files    #
+#########################
+
+.vs/
+
+# Visual Studio 2017 database file
+*.VC.db
+*.pdb
+
+*.pch
+*.slo
+*.dll
+*.sln
+*.VC.opendb
+*.tmp
