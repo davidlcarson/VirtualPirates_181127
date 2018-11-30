@@ -5,24 +5,31 @@
 # Unreal Generated Files 
 #########################
 
-Binaries/*
-
-#config .ini files are good
+#Do Save:
 #Config/*
 
 #not sure there is such a thing...
 #Config/Binaries/
 
-#temp: For now, whole directory
-Content/*
-#Content/StarterContent/
+#Don't save:
+Content/Geometry/*
+Content/Collections/*
+Content/Developers/*
+Content/FirstPerson/*
+Content/FirstPersonCPP/*
 
+#Do Save:
+#Content/VirtPirates/*
+#Content/VirtPirates_111811/*
+#Content/VirtPirates_111827/*
+
+#Don't save:
 Build/*
 Binaries/*
 Intermediate/*
 Saved/*
 
-#Let's save our source
+#Do Save:
 #Source/*
 
 #########################
