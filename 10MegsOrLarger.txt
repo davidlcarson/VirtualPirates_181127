@@ -1,0 +1,14 @@
+Following files are 10 megs or larger!
+
+//Redwood Tree (duplicate?) : ignoring
+6_Bayou_Area/Tress/Redwood_Leaf_02.uasset : 4K Texture: Shrink
+
+//Ground Level Texture : ignoring
+1_B1_Shell/T_Master_GroundLevel.uasset : 4K x 3K Texture : Can replace
+
+//Wicked Wench : Tracking
+Building_2/Sc11_BombardingFort/WickedWendh/WickedWench.uasset : Very Large Model
+
+//Building 1 Map : Tracking
+181127/Maps/Building_1_BuildData.uasset : Very dense map
+
