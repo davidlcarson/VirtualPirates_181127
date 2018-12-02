@@ -51,11 +51,11 @@ Saved/*
 
 #following are currently excluded because they're over 10 gigs.
 
-#Putting Building 1 Map in
+#Leave Building 1 Map in, even tho large.
 #Content/VirtPirates_181127/Maps/Building_1_BuiltData.uasset
-#exclude: I can re-import
+#exclude next two: I can re-import
 Content/VirtPirates_181127/VP_181127_Geo/1_Building_1/6_Bayou_Area/Trees/Redwood_Leaf_02.uasset
 #exclude: I can reimport
 Content/VirtPirates_181127/VP_181127_Geo/1_Building_1/1_B1_Shell/T_Master_GroundLevel.uasset
 #Leave in: It's a large model
-#Content/VirtPirates_111811/VPGeometry/3_Building_2/SC11_BombardingFort/WickedWendh/WickedWench.uasset
+#Content/VirtPirates_111811/VPGeometry/3_Building_2/SC11_BombardingFort/WickedWench/WickedWench.uasset
