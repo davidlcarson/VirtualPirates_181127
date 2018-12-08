@@ -11,13 +11,6 @@
 #not sure there is such a thing...
 #Config/Binaries/
 
-#Don't save:
-Content/Geometry/*
-Content/Collections/*
-Content/Developers/*
-Content/FirstPerson/*
-Content/FirstPersonCPP/*
-
 #Do Save:
 #Content/VirtPirates/*
 #Content/VirtPirates_111811/*
@@ -28,6 +21,13 @@ Build/*
 Binaries/*
 Intermediate/*
 Saved/*
+
+#Don't save:
+Content/Geometry/*
+Content/Collections/*
+Content/Developers/*
+Content/FirstPerson/*
+Content/FirstPersonCPP/*
 
 #Do Save:
 #Source/*
